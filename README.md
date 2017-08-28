@@ -1,0 +1,2 @@
+# othello-game
+Othello game logic and a console-mode program to play it. There are a handful of options that allow you to specify, before the game begins, how the game will be played. The program begins by reading input that selects these options; the game is then played by requiring input directly into the console that specifies a player's next move, continuing until the game is complete, at which point the program ends.
